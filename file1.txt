@@ -1,0 +1,3 @@
+"Some of the things [SonarCloud] spots are impressive (probably driven by some introspection and/or type inference), 
+not just the simple pattern matching that I am used to in most of the flake8 ecosystem."
+- Peter J. A. Cock - maintainer of BioPython
